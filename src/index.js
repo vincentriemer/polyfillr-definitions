@@ -4,8 +4,6 @@ var path = require('path'),
   factory = polyfill.scannerFactory,
   matcher = polyfill.matcher;
 
-var autopolyfiller = require('autopolyfiller');
-
 function collectDefinitions(folder) {
   var definitions = [];
   fs.readdirSync(path.join(__dirname, folder)).forEach(function(file) {

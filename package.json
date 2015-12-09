@@ -12,8 +12,6 @@
     "eslint": "^1.10.3"
   },
   "dependencies": {
-    "autopolyfiller-helpers": "^1.0.2",
-    "autopolyfiller": "vincentriemer/autopolyfiller",
-    "modernizr": "Modernizr/Modernizr"
+    "autopolyfiller-helpers": "^1.0.2"
   }
 }
