@@ -1,0 +1,71 @@
+- [ ] ~~test/applicationcache~~
+- [ ] test/blob - https://github.com/eligrey/Blob.js/
+- [ ] ~~test/canvas~~
+- [ ] ~~test/canvastext~~
+- [ ] ~~test/contextmenu~~
+- [ ] ~~test/cors~~
+- [ ] ~~test/crypto~~
+- [ ] test/customevent - eventlistener
+- [ ] test/dataview-api - jdataview
+- [ ] test/eventlistener - eventlistener
+- [ ] ~~test/flash~~
+- [ ] test/fullscreen-api - screenfull
+- [ ] test/geolocation - https://github.com/manuelbieh/Geolocation-API-Polyfill
+- [ ] test/hashchange - hasher
+- [ ] test/history
+- [ ] test/htmlimports
+- [ ] test/indexeddb
+- [ ] test/inputtypes
+- [ ] test/json
+- [ ] test/mathml
+- [ ] test/notification
+- [ ] test/pagevisibility-api
+- [ ] test/performance
+- [ ] test/pointerevents
+- [ ] test/postmessage
+- [ ] test/queryselector
+- [ ] test/requestanimationframe
+- [ ] test/svg
+- [ ] test/typed-arrays
+- [ ] test/video
+- [ ] test/web-intents
+- [ ] test/webanimations
+- [ ] test/webgl
+- [ ] test/websockets
+- [ ] test/audio/webaudio
+- [ ] test/crypto/getrandomvalues
+- [ ] test/dom/hidden
+- [ ] test/dom/mutationObserver
+- [ ] test/elem/unknown
+- [ ] ~~test/es5/array~~
+- [ ] ~~test/es5/date~~
+- [ ] ~~test/es5/function~~
+- [ ] ~~test/es5/object~~
+- [ ] test/es5/specification
+- [ ] ~~test/es5/string~~
+- [x] test/es6/array
+- [ ] ~~test/es6/collections~~
+- [ ] test/es6/map **needs modernizr test**
+- [ ] test/es6/set **needs modernizr test**
+- [ ] test/es6/weakmap **needs modernizr test**
+- [ ] test/es6/weakset **needs modernizr test**
+- [x] test/es6/math
+- [x] test/es6/number
+- [x] test/es6/object
+- [x] test/es6/promises
+- [x] test/es6/string
+- [ ] test/input/formaction
+- [ ] test/input/formenctype
+- [ ] test/input/formmethod
+- [ ] test/input/formtarget
+- [ ] test/network/fetch
+- [ ] test/storage/localstorage
+- [ ] test/storage/sessionstorage
+- [ ] test/style/scoped
+- [ ] test/svg/inline
+- [ ] test/textarea/maxlength
+- [ ] test/url/parser
+- [ ] test/webrtc/getusermedia
+- [ ] test/window/atob-btoa
+- [ ] test/window/matchmedia
+- [ ] test/workers/webworkers
