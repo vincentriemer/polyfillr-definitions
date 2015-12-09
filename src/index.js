@@ -112,6 +112,12 @@ function test(ast) {
   }, []);
 };
 
+// manually add es5 to polyfill definition
+polyfillDefinitions['test/es5/specification'] = {
+  polyfill: 'core-js/es5',
+  property: 'es5'
+};
+
 module.exports = {
   test: test,
   polyfills: polyfillDefinitions

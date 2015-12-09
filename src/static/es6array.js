@@ -5,5 +5,5 @@ module.exports = {
     Array: ['from', 'of']
   },
   matchType: 'static',
-  polyfills: 'core-js/es6/array'
+  polyfill: 'core-js/es6/array'
 };
