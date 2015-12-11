@@ -1,5 +1,5 @@
 module.exports = {
-  test: '/test/es6/object',
+  test: 'test/es6/object',
   property: 'es6object',
   matchNames: {
     Object: ['assign', 'is', 'setPrototypeOf']
