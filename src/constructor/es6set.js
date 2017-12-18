@@ -1,5 +1,5 @@
 module.exports = {
-  test: 'test/es6/set',
+  test: 'test/es6/collections',
   property: 'es6set',
   matchNames: ['Set'],
   matchType: 'constructor',

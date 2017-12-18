@@ -1,5 +1,5 @@
 module.exports = {
-  test: 'test/es6/weakset',
+  test: 'test/es6/collections',
   property: 'es6weakset',
   matchNames: ['WeakSet'],
   matchType: 'constructor',
